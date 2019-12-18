@@ -2,7 +2,7 @@
 favicon: /favicon.ico
 
 # SEO
-keywords: 生活,博客,前端,游戏
+keywords: book
 
 # Site title separator
 separator: '-'
@@ -10,14 +10,3 @@ separator: '-'
 # RSS
 rss: /atom.xml
 
-# SNS config
-sns:
-  Blog: /archives
-  GitHub: https://github.com/chunqiuyiyu
-  V2EX: https://www.v2ex.com/member/chunqiuyiyu
-
-# Nav menu
-menu:
-  Home: /
-  Archives: /archives
-  About: /about
